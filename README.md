@@ -13,8 +13,8 @@ POFO WEBSITE FROM SCRATCH
 </style>
 </head>
   <body>
-<div class="container">
+<main>
   
-</div>
+  </main>
 </body>
 </html>
