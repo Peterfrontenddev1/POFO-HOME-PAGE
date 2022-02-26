@@ -20,6 +20,7 @@ POFO WEBSITE
     <p>MENU</p>
     <p>PRODUCTS</p>
         <p>LOCATIONS</p>
+        <p>PARTNERS</p>
     <navbar>
   </main>
 </body>
