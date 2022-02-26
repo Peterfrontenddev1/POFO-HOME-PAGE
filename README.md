@@ -6,6 +6,7 @@ POFO WEBSITE FROM SCRATCH
     <title>
 POFO WEBSITE
       </title>
+    <meta charset="utf-8">
 <style>
   body{
     background-image: url(https://photos.google.com/photo/AF1QipP0W2Ct9akzXCSU0MAFXNHrcSeBYVujmxfwJxft)
