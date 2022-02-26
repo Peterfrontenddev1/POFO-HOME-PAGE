@@ -16,6 +16,9 @@ POFO WEBSITE
   <body>
 <main>
   <h1> POFO* </h1>
+  <navbar>
+    <p>MENU</p>
+    <navbar>
   </main>
 </body>
 </html>
